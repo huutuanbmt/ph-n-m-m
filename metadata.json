@@ -1,0 +1,6 @@
+{
+  "name": "Văn Phòng Pro",
+  "description": "Bộ ứng dụng văn phòng 4-in-1 chuyên nghiệp hỗ trợ đọc, tạo và chỉnh sửa Word (DOCX), Excel (XLSX), PowerPoint (PPTX), PDF, quản lý font chữ tiếng Việt và đồng bộ Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

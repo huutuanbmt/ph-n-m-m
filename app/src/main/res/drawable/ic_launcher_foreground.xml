@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Word card (Top-Left, Blue) -->
+    <path
+        android:fillColor="#2B7CD3"
+        android:pathData="M28,24 h24 a4,4 0 0 1 4,4 v24 a4,4 0 0 1 -4,4 h-24 a4,4 0 0 1 -4,-4 v-24 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,34 h18 v2.5 h-18 z M31,39.5 h18 v2.5 h-18 z M31,45 h12 v2.5 h-12 z" />
+
+    <!-- Excel card (Top-Right, Green) -->
+    <path
+        android:fillColor="#1D9E5E"
+        android:pathData="M56,24 h24 a4,4 0 0 1 4,4 v24 a4,4 0 0 1 -4,4 h-24 a4,4 0 0 1 -4,-4 v-24 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59,32 h7 v5 h-7 z M69,32 h7 v5 h-7 z M59,40 h7 v5 h-7 z M69,40 h7 v5 h-7 z" />
+
+    <!-- PowerPoint card (Bottom-Left, Orange) -->
+    <path
+        android:fillColor="#E66C37"
+        android:pathData="M28,52 h24 a4,4 0 0 1 4,4 v24 a4,4 0 0 1 -4,4 h-24 a4,4 0 0 1 -4,-4 v-24 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,60 a8,8 0 1 0 8,8 h-8 z" />
+
+    <!-- PDF card (Bottom-Right, Crimson) -->
+    <path
+        android:fillColor="#D9383A"
+        android:pathData="M56,52 h24 a4,4 0 0 1 4,4 v24 a4,4 0 0 1 -4,4 h-24 a4,4 0 0 1 -4,-4 v-24 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,61 h14 v3 h-14 z M61,67 h14 v3 h-14 z M61,73 h9 v3 h-9 z" />
+
+    <!-- Center Pro Badge -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,44 L64,54 L54,64 L44,54 Z" />
+    <path
+        android:fillColor="#0F2547"
+        android:pathData="M54,48 L60,54 L54,60 L48,54 Z" />
+</vector>

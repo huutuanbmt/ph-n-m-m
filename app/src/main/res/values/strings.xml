@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Văn Phòng Pro</string>
+    <string name="app_subtitle">Office Editor 4-in-1 • Nguyễn Hữu Tuấn (0943429595)</string>
+    <string name="tab_home">Tài liệu</string>
+    <string name="tab_templates">Kho mẫu</string>
+    <string name="tab_fonts">Quản lý Font</string>
+    <string name="tab_cloud">Đám mây</string>
+    <string name="tab_settings">Tùy biến &amp; Hệ thống</string>
+    <string name="action_create_new">Tạo tài liệu mới</string>
+    <string name="action_import_saf">Mở tệp từ thiết bị (SAF / USB OTG)</string>
+    <string name="search_hint">Tìm theo tên, định dạng, thư mục, dung lượng...</string>
+</resources>

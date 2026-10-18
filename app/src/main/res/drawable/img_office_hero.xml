@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="800dp"
+    android:height="450dp"
+    android:viewportWidth="800"
+    android:viewportHeight="450">
+    <path android:pathData="M0,0h800v450h-800z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="800"
+                android:endY="450"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#0F2547" />
+                <item android:offset="0.55" android:color="#1E3A8A" />
+                <item android:offset="1.0" android:color="#1D4ED8" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Decorative glowing orbs -->
+    <path
+        android:fillColor="#2260A5FA"
+        android:pathData="M650,90 m-140,0 a140,140 0 1,0 280,0 a140,140 0 1,0 -280,0" />
+    <path
+        android:fillColor="#1AFBBF24"
+        android:pathData="M140,380 m-110,0 a110,110 0 1,0 220,0 a110,110 0 1,0 -220,0" />
+    <!-- Floating Word Card -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M460,60 h120 a16,16 0 0 1 16,16 v140 a16,16 0 0 1 -16,16 h-120 a16,16 0 0 1 -16,-16 v-140 a16,16 0 0 1 16,-16 z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M475,95 h90 v10 h-90 z M475,118 h90 v10 h-90 z M475,141 h65 v10 h-65 z M475,164 h80 v10 h-80 z" />
+    <!-- Floating Excel Card -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M610,90 h120 a16,16 0 0 1 16,16 v140 a16,16 0 0 1 -16,16 h-120 a16,16 0 0 1 -16,-16 v-140 a16,16 0 0 1 16,-16 z" />
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M625,125 h40 v22 h-40 z M675,125 h40 v22 h-40 z M625,157 h40 v22 h-40 z M675,157 h40 v22 h-40 z M625,189 h40 v22 h-40 z M675,189 h40 v22 h-40 z" />
+    <!-- Floating PowerPoint Card -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M480,245 h120 a16,16 0 0 1 16,16 v130 a16,16 0 0 1 -16,16 h-120 a16,16 0 0 1 -16,-16 v-130 a16,16 0 0 1 16,-16 z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M540,290 a32,32 0 1 0 32,32 h-32 z" />
+    <!-- Floating PDF Card -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M630,265 h120 a16,16 0 0 1 16,16 v130 a16,16 0 0 1 -16,16 h-120 a16,16 0 0 1 -16,-16 v-130 a16,16 0 0 1 16,-16 z" />
+    <path
+        android:fillColor="#FECACA"
+        android:pathData="M648,305 h84 v12 h-84 z M648,330 h84 v12 h-84 z M648,355 h54 v12 h-54 z" />
+</vector>
